@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Email App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_login">Login</string>
+    <string name="app_id">1025654547469805</string>
+
+</resources>

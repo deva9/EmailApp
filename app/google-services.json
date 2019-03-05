@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162387024984",
+    "project_id": "firebase-myemailapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162387024984:android:c13b8419b40160a1",
+        "android_client_info": {
+          "package_name": "com.gmaillogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162387024984-u8qqtgkpg3avi0iursjidrfgl3montlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmaillogin",
+            "certificate_hash": "CD6F078E82CC30CFC2653A69FA8B27E956359340"
+          }
+        },
+        {
+          "client_id": "162387024984-f8rd8j4qfrsiuokfmo9d2hl66ppse031.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPJfN08faPnhLY1xBxDBWj1C_gK_PfGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
